@@ -1,0 +1,4 @@
+# zmienne
+
+var = 1
+print(var)

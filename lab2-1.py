@@ -1,0 +1,11 @@
+#skrypt drukujący drzewo
+print("     *")
+print("    * *")
+print("   *   *")
+print("  *     *")
+print(" *       *")
+print("****   ****")
+print("   *   *")
+print("   *   *")
+print("   *   *")
+print("   *****")
