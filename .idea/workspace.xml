@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87cc459c-d16f-4945-b358-0cd014bf79b1" name="Changes" comment="A">
-      <change afterPath="$PROJECT_DIR$/OOP/demo-metody.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/demo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/demo4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/demo5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/lab22-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/lab22-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/lab22-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/stack_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/stack_pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit4/lab21-1-student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit4/lab21-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit4/lab21.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/dices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/lab23-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/lab23-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/lab23-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +56,7 @@
       <recent name="C:\Users\falandys\PycharmProjects\pp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo-metody">
+  <component name="RunManager" selected="Python.lab23-3">
     <configuration name="demo-metody" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/demo5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/dices.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab22-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab23-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/lab22-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/lab23-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab22-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab23-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/lab22-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/lab23-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab22-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab23-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/lab22-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/lab23-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab23-3" />
+        <item itemvalue="Python.lab23-2" />
+        <item itemvalue="Python.lab23-1" />
+        <item itemvalue="Python.dices" />
         <item itemvalue="Python.demo-metody" />
-        <item itemvalue="Python.lab22-3" />
-        <item itemvalue="Python.lab22-2" />
-        <item itemvalue="Python.lab22-1" />
-        <item itemvalue="Python.demo5" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +190,7 @@
       <workItem from="1677397898572" duration="22299000" />
       <workItem from="1679812623073" duration="4448000" />
       <workItem from="1679818365512" duration="43000" />
-      <workItem from="1679818409922" duration="15472000" />
+      <workItem from="1679818409922" duration="19689000" />
     </task>
     <task id="LOCAL-00001" summary="A">
       <created>1674315136030</created>
@@ -230,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679817558340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="A">
+      <created>1679838764383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679838764383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +238,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -253,99 +256,103 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pp$lab10_cwiczenie.coverage" NAME="lab10_cwiczenie Coverage Results" MODIFIED="1674388089069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$lab6_1.coverage" NAME="lab6_1 Coverage Results" MODIFIED="1674293078934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$lab10_2.coverage" NAME="lab10-2 Coverage Results" MODIFIED="1674396158489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
     <SUITE FILE_PATH="coverage/pp$literals.coverage" NAME="literals Coverage Results" MODIFIED="1669476123864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$lab5_3.coverage" NAME="lab5-3 Coverage Results" MODIFIED="1674287752519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$sum_all_elements.coverage" NAME="sum_all_elements Coverage Results" MODIFIED="1674388718893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$lab22_1.coverage" NAME="lab22-1 Coverage Results" MODIFIED="1679833883337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/pp$lab23_2.coverage" NAME="lab23-2 Coverage Results" MODIFIED="1679842213247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$lab4_2.coverage" NAME="lab4-2 Coverage Results" MODIFIED="1669543450994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$Lab7_cwiczenie.coverage" NAME="Lab7_cwiczenie Coverage Results" MODIFIED="1674297359421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
-    <SUITE FILE_PATH="coverage/pp$Lab7_1.coverage" NAME="Lab7-1 Coverage Results" MODIFIED="1674299118228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$lab13_2.coverage" NAME="lab13-2 Coverage Results" MODIFIED="1677406135200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab12_1.coverage" NAME="lab12-1 Coverage Results" MODIFIED="1677333649746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab18_3_cezar_code.coverage" NAME="lab18-3-cezar code Coverage Results" MODIFIED="1679815759769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
-    <SUITE FILE_PATH="coverage/pp$random_three_out_of_ten.coverage" NAME="random_three_out_of_ten Coverage Results" MODIFIED="1677320460489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab15_1.coverage" NAME="lab15-1 Coverage Results" MODIFIED="1677426262585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$stack_oop.coverage" NAME="stack_oop Coverage Results" MODIFIED="1679821388184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/pp$lab9_1.coverage" NAME="lab9-1 Coverage Results" MODIFIED="1674381050382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$Lab15_3.coverage" NAME="Lab15-3 Coverage Results" MODIFIED="1677427874522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab10_bubble.coverage" NAME="lab10-bubble Coverage Results" MODIFIED="1677313251072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$chessboard.coverage" NAME="chessboard Coverage Results" MODIFIED="1677317989260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1677400684931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab8_3.coverage" NAME="lab8-3 Coverage Results" MODIFIED="1674314966497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$variables.coverage" NAME="variables Coverage Results" MODIFIED="1669562068038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$Lab10.coverage" NAME="Lab10 Coverage Results" MODIFIED="1677312322675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$Lab10_random_list_elements.coverage" NAME="Lab10_random_list_elements Coverage Results" MODIFIED="1674388460325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
+    <SUITE FILE_PATH="coverage/pp$dices.coverage" NAME="dices Coverage Results" MODIFIED="1679840325393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$lab14_1.coverage" NAME="lab14-1 Coverage Results" MODIFIED="1677412126767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$stack_pop.coverage" NAME="stack_pop Coverage Results" MODIFIED="1679819819119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$lab4_1.coverage" NAME="lab4-1 Coverage Results" MODIFIED="1669542330674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$operators.coverage" NAME="operators Coverage Results" MODIFIED="1669538684213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$Lab11_3.coverage" NAME="Lab11-3 Coverage Results" MODIFIED="1677325514285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab7_3.coverage" NAME="lab7-3 Coverage Results" MODIFIED="1674301962627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1679828218884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1677404546681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$kolokwium_2.coverage" NAME="kolokwium_2 Coverage Results" MODIFIED="1677319658841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$Lab9_cwiczenia.coverage" NAME="Lab9_cwiczenia Coverage Results" MODIFIED="1674376334190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$lab15_2.coverage" NAME="lab15-2 Coverage Results" MODIFIED="1677427424162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1679827862865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/pp$lab3_1.coverage" NAME="lab3-1 Coverage Results" MODIFIED="1669477266624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$lab14_2.coverage" NAME="lab14-2 Coverage Results" MODIFIED="1677416661891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab23_1.coverage" NAME="lab23-1 Coverage Results" MODIFIED="1679841951329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$Lab9_kodowanie.coverage" NAME="Lab9_kodowanie Coverage Results" MODIFIED="1674380435704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$mynumber.coverage" NAME="mynumber Coverage Results" MODIFIED="1669561470835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$lab5_2.coverage" NAME="lab5-2 Coverage Results" MODIFIED="1674288012623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$lab6_3.coverage" NAME="lab6_3 Coverage Results" MODIFIED="1674293465667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$lab13_1.coverage" NAME="lab13-1 Coverage Results" MODIFIED="1677405197236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$print_trapez.coverage" NAME="print-trapez Coverage Results" MODIFIED="1669469237609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$demo_metody.coverage" NAME="demo-metody Coverage Results" MODIFIED="1679838102788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$Lab13_3.coverage" NAME="Lab13-3 Coverage Results" MODIFIED="1677407783911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab2_1.coverage" NAME="lab2-1 Coverage Results" MODIFIED="1669471447584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$pythagorian.coverage" NAME="pythagorian Coverage Results" MODIFIED="1669561725123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$funkcje.coverage" NAME="funkcje Coverage Results" MODIFIED="1677331570109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$countdown.coverage" NAME="countdown Coverage Results" MODIFIED="1677330987082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab4_3.coverage" NAME="lab4-3 Coverage Results" MODIFIED="1669541647002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$lab6_2.coverage" NAME="lab6_2 Coverage Results" MODIFIED="1674293333077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
+    <SUITE FILE_PATH="coverage/pp$lab11_1.coverage" NAME="lab11-1 Coverage Results" MODIFIED="1677321724333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lists_function.coverage" NAME="lists_function Coverage Results" MODIFIED="1677399943706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab8_cwiczenia.coverage" NAME="lab8_cwiczenia Coverage Results" MODIFIED="1674310823760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$lab3_3.coverage" NAME="lab3-3 Coverage Results" MODIFIED="1669477706633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$letters.coverage" NAME="letters Coverage Results" MODIFIED="1677317023432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab9_2.coverage" NAME="lab9-2 Coverage Results" MODIFIED="1674383825944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
+    <SUITE FILE_PATH="coverage/pp$lab23_3.coverage" NAME="lab23-3 Coverage Results" MODIFIED="1679842908189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/pp$Lab9_cwiczenie_operatorybitowe.coverage" NAME="Lab9_cwiczenie_operatorybitowe Coverage Results" MODIFIED="1674377880924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
+    <SUITE FILE_PATH="coverage/pp$Lab14_3.coverage" NAME="Lab14-3 Coverage Results" MODIFIED="1677419746941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab10_1.coverage" NAME="lab10-1 Coverage Results" MODIFIED="1674393266030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
+    <SUITE FILE_PATH="coverage/pp$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1679832879388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/pp$lab8_2.coverage" NAME="lab8-2 Coverage Results" MODIFIED="1674312917090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$lab12_3.coverage" NAME="lab12-3 Coverage Results" MODIFIED="1677335814555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab2_3.coverage" NAME="lab2-3 Coverage Results" MODIFIED="1669471436659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$lab22_3.coverage" NAME="lab22-3 Coverage Results" MODIFIED="1679836139143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/pp$lab18_2.coverage" NAME="lab18-2 Coverage Results" MODIFIED="1679813799171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
+    <SUITE FILE_PATH="coverage/pp$lab6_1.coverage" NAME="lab6_1 Coverage Results" MODIFIED="1674293078934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
+    <SUITE FILE_PATH="coverage/pp$lab5_3.coverage" NAME="lab5-3 Coverage Results" MODIFIED="1674287752519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$sum_all_elements.coverage" NAME="sum_all_elements Coverage Results" MODIFIED="1674388718893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
+    <SUITE FILE_PATH="coverage/pp$lab22_1.coverage" NAME="lab22-1 Coverage Results" MODIFIED="1679833883337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/pp$Lab7_1.coverage" NAME="Lab7-1 Coverage Results" MODIFIED="1674299118228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
+    <SUITE FILE_PATH="coverage/pp$lab12_1.coverage" NAME="lab12-1 Coverage Results" MODIFIED="1677333649746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$random_three_out_of_ten.coverage" NAME="random_three_out_of_ten Coverage Results" MODIFIED="1677320460489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab15_1.coverage" NAME="lab15-1 Coverage Results" MODIFIED="1677426262585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$stack_oop.coverage" NAME="stack_oop Coverage Results" MODIFIED="1679821388184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/pp$lab9_1.coverage" NAME="lab9-1 Coverage Results" MODIFIED="1674381050382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
+    <SUITE FILE_PATH="coverage/pp$Lab15_3.coverage" NAME="Lab15-3 Coverage Results" MODIFIED="1677427874522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1677400684931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab8_3.coverage" NAME="lab8-3 Coverage Results" MODIFIED="1674314966497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$variables.coverage" NAME="variables Coverage Results" MODIFIED="1669562068038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$Lab10.coverage" NAME="Lab10 Coverage Results" MODIFIED="1677312322675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$operators.coverage" NAME="operators Coverage Results" MODIFIED="1669538684213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$kolokwium_2.coverage" NAME="kolokwium_2 Coverage Results" MODIFIED="1677319658841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab15_2.coverage" NAME="lab15-2 Coverage Results" MODIFIED="1677427424162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$lab3_1.coverage" NAME="lab3-1 Coverage Results" MODIFIED="1669477266624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$lab14_2.coverage" NAME="lab14-2 Coverage Results" MODIFIED="1677416661891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
+    <SUITE FILE_PATH="coverage/pp$mynumber.coverage" NAME="mynumber Coverage Results" MODIFIED="1669561470835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$lab5_2.coverage" NAME="lab5-2 Coverage Results" MODIFIED="1674288012623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp$print_trapez.coverage" NAME="print-trapez Coverage Results" MODIFIED="1669469237609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$list_to_tuple.coverage" NAME="list_to_tuple Coverage Results" MODIFIED="1677417552976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$Lab6_cwiczenie.coverage" NAME="Lab6_cwiczenie Coverage Results" MODIFIED="1674290025035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$Kolokwium1.coverage" NAME="Kolokwium1 Coverage Results" MODIFIED="1674294457013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$lab5_1.coverage" NAME="lab5-1 Coverage Results" MODIFIED="1669562506979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$lab9_3.coverage" NAME="lab9-3 Coverage Results" MODIFIED="1674384631966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$lab4_3.coverage" NAME="lab4-3 Coverage Results" MODIFIED="1669541647002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$lab6_2.coverage" NAME="lab6_2 Coverage Results" MODIFIED="1674293333077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
     <SUITE FILE_PATH="coverage/pp$sum.coverage" NAME="sum Coverage Results" MODIFIED="1677331177369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$fetch_numbers.coverage" NAME="fetch_numbers Coverage Results" MODIFIED="1677425340623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$Lab7_2.coverage" NAME="Lab7-2 Coverage Results" MODIFIED="1674299622869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT2" />
-    <SUITE FILE_PATH="coverage/pp$lab11_1.coverage" NAME="lab11-1 Coverage Results" MODIFIED="1677321724333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$demo.coverage" NAME="demo Coverage Results" MODIFIED="1679827091513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/pp$lists_function.coverage" NAME="lists_function Coverage Results" MODIFIED="1677399943706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1679828344401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$lab3_2.coverage" NAME="lab3-2 Coverage Results" MODIFIED="1669477654688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$lab8_cwiczenia.coverage" NAME="lab8_cwiczenia Coverage Results" MODIFIED="1674310823760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$lab22_2.coverage" NAME="lab22-2 Coverage Results" MODIFIED="1679834817443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/pp$lab3_3.coverage" NAME="lab3-3 Coverage Results" MODIFIED="1669477706633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$letters.coverage" NAME="letters Coverage Results" MODIFIED="1677317023432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab21_1_student.coverage" NAME="lab21-1-student Coverage Results" MODIFIED="1679823572148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
     <SUITE FILE_PATH="coverage/pp$lab12_2.coverage" NAME="lab12-2 Coverage Results" MODIFIED="1677333382331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab9_2.coverage" NAME="lab9-2 Coverage Results" MODIFIED="1674383825944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
     <SUITE FILE_PATH="coverage/pp$tuplets.coverage" NAME="tuplets Coverage Results" MODIFIED="1677411293723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$Lab9_cwiczenie_operatorybitowe.coverage" NAME="Lab9_cwiczenie_operatorybitowe Coverage Results" MODIFIED="1674377880924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
-    <SUITE FILE_PATH="coverage/pp$Lab14_3.coverage" NAME="Lab14-3 Coverage Results" MODIFIED="1677419746941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab8_1.coverage" NAME="lab8-1 Coverage Results" MODIFIED="1674312356776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$test.coverage" NAME="test Coverage Results" MODIFIED="1669544854812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$Inverse_number.coverage" NAME="Inverse_number Coverage Results" MODIFIED="1677425773690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab10_1.coverage" NAME="lab10-1 Coverage Results" MODIFIED="1674393266030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zajecia22" />
     <SUITE FILE_PATH="coverage/pp$lab2_2.coverage" NAME="lab2-2 Coverage Results" MODIFIED="1669471440951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$asterisks.coverage" NAME="asterisks Coverage Results" MODIFIED="1677329946929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$lab21_2.coverage" NAME="lab21-2 Coverage Results" MODIFIED="1679825717551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
     <SUITE FILE_PATH="coverage/pp$hello_world.coverage" NAME="hello-world Coverage Results" MODIFIED="1669535388628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$lab11_2.coverage" NAME="lab11-2 Coverage Results" MODIFIED="1677324489179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
     <SUITE FILE_PATH="coverage/pp$fibo.coverage" NAME="fibo Coverage Results" MODIFIED="1677402369036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1679832879388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/pp$lab8_2.coverage" NAME="lab8-2 Coverage Results" MODIFIED="1674312917090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp$lab12_3.coverage" NAME="lab12-3 Coverage Results" MODIFIED="1677335814555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab2_3.coverage" NAME="lab2-3 Coverage Results" MODIFIED="1669471436659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1677425006778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab22_3.coverage" NAME="lab22-3 Coverage Results" MODIFIED="1679836139143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/pp$alphabet.coverage" NAME="alphabet Coverage Results" MODIFIED="1679812725759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
     <SUITE FILE_PATH="coverage/pp$introduction.coverage" NAME="introduction Coverage Results" MODIFIED="1677330809868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIT3" />
-    <SUITE FILE_PATH="coverage/pp$lab18_2.coverage" NAME="lab18-2 Coverage Results" MODIFIED="1679813799171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
   </component>
 </project>
