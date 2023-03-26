@@ -5,12 +5,14 @@
 count_number = int(input("Podaj ile liczb chcesz podać i posegregować:"))
 selected_numbers = []
 for i in range(count_number):
-    selected_numbers.append(int(input("Podaj numer:")))
+    selected_numbers.append(int(input("Podaj " + str(i+1) + " liczbę zbioru:")))
 
-for i in range(count_number):
-    for j in range(count_number):
-        if selected_numbers[i] == selected_numbers[j]:
-            selected_numbers.remove(i)
+numbers_without_duplicate = []
+for number in selected_numbers:
+   if number not in numbers_without_duplicate:
+       numbers_without_duplicate.append(number)
+
+
 
 selected_numbers.sort(reverse=True)
-print(selected_numbers)
+print(numbers_without_duplicate)
